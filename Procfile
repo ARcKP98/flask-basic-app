@@ -1,1 +1,1 @@
- * Serving Flask app 'run'
+web: python run.py
