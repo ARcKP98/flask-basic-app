@@ -1,3 +1,8 @@
 .col-md-5 img{
     width: 100%;
 }
+
+.flashes {
+    font-size: 20px;
+    text-decoration: solid;
+}
